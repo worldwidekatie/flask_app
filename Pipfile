@@ -10,6 +10,11 @@ flask = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 sqlalchemy = "*"
+python-dotenv = "*"
+requests = "*"
+basilica = "*"
+tweepy = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
